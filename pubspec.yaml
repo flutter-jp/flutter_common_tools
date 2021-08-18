@@ -1,7 +1,8 @@
 name: flutter_common_tools
 description: A new Flutter plugin.
 version: 0.0.1
-homepage:
+homepage: https://github.com/flutter-jp
+repository: https://github.com/flutter-jp/flutter_common_tools
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
